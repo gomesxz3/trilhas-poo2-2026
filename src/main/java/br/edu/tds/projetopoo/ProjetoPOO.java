@@ -6,7 +6,7 @@ package br.edu.tds.projetopoo;
 
 /**
  *
- * @author aluno
+ * @author João
  */
 public class ProjetoPOO {
 
